@@ -21,16 +21,33 @@ format:
 
 ![](./ai_in_curriculum_qr.png)
 
-## Framing the Conversation
+*AI Acknowledgment: AI tools were used in the initial drafting and development of this document. All content has been reviewed, refined, and validated through human expertise and professional judgment.*
 
+---
+
+## Today: 15 Minutes to Shift Perspective
+
+**We'll explore:**
+- Four challenges we're all facing
+- One hidden barrier we don't discuss
+- Three pathways forward
+- Your questions and experiences
+
+**Not covering:**
+- How AI works
+- Which tools to use
+- Detection strategies
+- Policy development
+
+*"Not about answers — just questions worth asking"*
+
+
+::: {.notes}
+
+I'm sharing observations from my own teaching and conversations with colleagues - you'll likely recognize these patterns.
 * **Reality Check**: AI already in workflows; disciplines differ; no one-size-fits-all
 * **Today's Goal**: Share challenges & spark reflection
 * *"Not about answers — just questions worth asking"*
-
-*AI Acknowledgment: AI tools were used in the initial drafting and development of this document. All content has been reviewed, refined, and validated through human expertise and professional judgment.*
-
-::: {.notes}
-I'm sharing observations from my own teaching and conversations with colleagues - you'll likely recognize these patterns.
 
 - AI is already here - students using ChatGPT for assignments, staff for admin tasks
 - Engineering will use it differently than Creative Writing - acknowledge this
@@ -207,15 +224,37 @@ So how do we move forward constructively?
 :::
 
 ---
+Here's the slide content with presenter notes based on the UNESCO framework:
 
-## Three Practical Pathways
+---
 
-1. **Learning Assistant**: Brainstorm, counter-arguments, debugging
-2. **Teaching Partner**: Practice problems, draft feedback, adaptive tasks
-3. **Discipline Tool**: Engineering, Business, Health, Arts
+## Moving Forward: AI as Learning Partner
+
+![Adapted from UNESCO Quick Start Guide (2023)](./assets/table-use-og-ai.jpeg)
 
 ::: {.notes}
-**Frame positively**: "These aren't replacements - they're enhancements"
+
+So how do we move to productive use? UNESCO's research identifies multiple roles AI can play in education - not as replacement, but as partner."
+
+**Walk through key roles** (pick 3-4 based on time):
+
+**Possibility Engine example**: "Students use ChatGPT to brainstorm essay topics. One student was stuck on a history assignment until AI helped generate 10 different angles - they chose one they'd never considered."
+
+**Socratic Opponent**: "In my business ethics class, students argue one position while ChatGPT argues the opposite. Forces them to strengthen their reasoning - can't just say 'because I think so.'"
+
+**Personal Tutor** (relate to shame): "This addresses the shame issue directly - students can ask AI 'dumb questions' they're embarrassed to ask in class. No judgment, infinite patience."
+
+**Study Buddy**: "Perfect for exam prep. Students explain concepts TO the AI - if they can't explain it clearly, they don't understand it yet."
+
+**Key message**: "Notice none of these replace YOU. They augment learning. AI handles repetitive tasks so you can focus on what only humans do - inspire, connect, judge quality, provide wisdom."
+
+**Address elephant**: "Some of you might be thinking 'but students will cheat.' Remember - it's not about the tool, it's about the task design. If AI can complete your assignment alone, the assignment needs redesigning."
+
+**Practical takeaway**: "Pick ONE role from this table. Try it next week. Start small."
+
+"Let me show you how one colleague did exactly that..."
+
+"These aren't replacements - they're enhancements"
 
 **1. Learning Assistant examples**:
 - Brainstorming: "Give me 10 unconventional approaches to this problem"
@@ -291,6 +330,9 @@ So how do we move forward constructively?
 * **Tool**: Import → Restructure → Save 80% time
 * **Value**: Supports staff, not replaces
 * **Takeaway**: Efficiency
+
+![](./assets/cur-curator.png)
+
 
 ::: {.notes}
 **Quick overview**:
