@@ -25,7 +25,7 @@ format:
 
 ---
 
-## Today: 15 Minutes to Shift Perspective
+## Today: 15 Minutes
 
 **We'll explore:**
 - Four challenges we're all facing
@@ -230,7 +230,23 @@ Here's the slide content with presenter notes based on the UNESCO framework:
 
 ## Moving Forward: AI as Learning Partner
 
-![Adapted from UNESCO Quick Start Guide (2023)](./assets/table-use-og-ai.jpeg)
+Adapted from UNESCO Report (2023)
+
+
+| **Role** | **Description** | **Example of Implementation** |
+|----------|-----------------|-------------------------------|
+| **Possibility engine** | AI generates alternative ways of expressing an idea | Students write queries in ChatGPT and use the Regenerate response function to examine alternative responses. |
+| **Socratic opponent** | AI acts as an opponent to develop and argument | Students enter prompts into ChatGPT following the structure of a conversation or debate. Teachers can ask students to use ChatGPT to prepare for discussions. |
+| **Collaboration coach** | AI helps groups to research and solve problems together | Working in groups, students use ChatGPT to find out information to complete tasks and assignments. |
+| **Guide on the side** | AI acts as a guide to navigate physical and conceptual spaces | Teachers use ChatGPT to generate content for classes/courses (e.g., discussion questions) and advice on how to support students in learning specific concepts. |
+| **Personal tutor** | AI tutors each student and gives immediate feedback on progress | ChatGPT provides personalized feedback to students based on information provided by students or teachers (e.g., test scores). |
+| **Co-designer** | AI assists throughout the design process | Teachers ask ChatGPT for ideas about designing or updating a curriculum (e.g., rubrics for assessment) and/or focus on specific goals (e.g., how to make the curriculum more accessible). |
+| **Exploratorium** | AI provides tools to play with, explore and interpret data | Teachers provide basic information to students who write different queries in ChatGPT to find out more. ChatGPT can be used to support language learning. |
+| **Study buddy** | AI helps the student reflect on learning material | Students explain their current level of understanding to ChatGPT and ask for ways to help them study the material. ChatGPT could also be used to help students prepare for other tasks (e.g., job interviews). |
+| **Motivator** | AI offers games and challenges to extend learning | Teachers or students ask ChatGPT for ideas about how to extend students' learning after providing a summary of the current level of students' knowledge (e.g., quizzes, exercises). |
+| **Dynamic assessor** | AI provides educators with a profile of each student's current knowledge | Students interact with ChatGPT in a tutorial-type dialogue and then ask ChatGPT to produce a summary of their current state of knowledge. Students can also ask ChatGPT for dynamic assessments. |
+
+This markdown table will render cleanly in your presentation materials and is easier to edit if needed.
 
 ::: {.notes}
 
