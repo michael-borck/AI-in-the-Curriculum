@@ -15,6 +15,12 @@ format:
     embed-resources: true
 ---
 
+## Companion Website
+
+[AI in the Curriculum](https://michael-borck.github.io/AI-in-the-Curriculum/)
+
+![](./ai_in_curriculum_qr.png)
+
 ## Framing the Conversation
 
 * **Reality Check**: AI already in workflows; disciplines differ; no one-size-fits-all
