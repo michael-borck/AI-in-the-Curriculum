@@ -17,7 +17,7 @@ format:
 
 ## Companion Website
 
-[AI in the Curriculum](https://michael-borck.github.io/AI-in-the-Curriculum/)
+[https://michael-borck.github.io/AI-in-the-Curriculum/](https://michael-borck.github.io/AI-in-the-Curriculum/)
 
 ![](./ai_in_curriculum_qr.png)
 
