@@ -1,0 +1,436 @@
+---
+title: "AI in the Curriculum: Challenges & Opportunities"
+author: "Michael Borck, Curtin University"
+format: 
+  pptx: default
+  pdf:
+    toc: false
+    colorlinks: true
+  docx:
+    toc: false
+    highlight-style: github
+  html:
+    toc: true
+    toc-expand: 2
+    embed-resources: true
+---
+
+## Framing the Conversation
+
+* **Reality Check**: AI already in workflows; disciplines differ; no one-size-fits-all
+* **Today's Goal**: Share challenges & spark reflection
+* *"Not about answers — just questions worth asking"*
+
+*AI Acknowledgment: AI tools were used in the initial drafting and development of this document. All content has been reviewed, refined, and validated through human expertise and professional judgment.*
+
+::: {.notes}
+I'm sharing observations from my own teaching and conversations with colleagues - you'll likely recognize these patterns.
+
+- AI is already here - students using ChatGPT for assignments, staff for admin tasks
+- Engineering will use it differently than Creative Writing - acknowledge this
+- We're exploring together, not prescribing solutions
+- Set expectation: discussion starter, not definitive guide
+
+**Elephant in the room**: We need to talk about AI shame - tease what's coming
+
+Some of you might be thinking 'not another AI talk' - but we need to talk about what's actually happening in our classrooms
+
+Let me share four challenges I'm seeing...
+:::
+
+---
+
+## Over-Trust: The "Fountain of Knowledge" Problem
+
+* **Challenge**: Students over-trust AI
+* **Impact**: Weakens critical thinking  
+* **Response**: Error-spotting, critique, reward questioning
+
+::: {.notes}
+I watched a student refuse to question an obviously wrong AI answer because 'the AI said so'
+
+- Students treat AI like authoritative source
+- Hesitant to disagree even when they know better
+- "But ChatGPT said..." becoming common refrain
+
+- Give students an AI explanation with 2 deliberate errors
+- Works across disciplines: wrong physics formula, incorrect historical date, buggy code, flawed diagnosis
+- Students initially struggle to spot errors they'd normally catch
+
+**Response strategies**:
+- Make error-hunting a regular exercise
+- Compare multiple AI responses to same prompt
+- Reward students who challenge AI answers
+- "Find three ways to improve this AI response"
+
+**Key message**: Critical thinking matters MORE with AI, not less
+
+But over-trust isn't the only problem...
+:::
+
+---
+
+## Over-Use: Shortcuts vs. Scaffolds
+
+* **Challenge**: AI as bypass, not support
+* **Risks**: Shallow learning, plagiarism fears, lost skills
+* **Response**: Frame AI as scaffold within pedagogy
+
+![© Rawia Inaim. “Bloom’s Taxonomy.” Retrieved September 4, 2025, from https://opentextbc.ca/studentsuccess/chapter/effective-questions/. Licensed under a CC BY-SA (Attribution ShareAlike) license.](./assets/blooms.png)
+
+::: {.notes}
+**The distinction**: "There's a difference between using AI to skip learning and using it to enhance learning"
+
+- Students jump straight to "give me the answer"
+- Miss the learning that comes from struggle
+- Can't explain their "own" work
+- Panic when asked to work without AI
+
+**Bloom's Flip explanation**:
+- Traditional: Start at Remember/Understand, work up to Create
+- AI Era: Start with Create/Evaluate WITH AI support
+- Then work backwards to build foundational understanding
+- Example: Create a marketing campaign (with AI) THEN learn marketing principles
+
+**Practical example**: 
+- Don't use AI to write essay from scratch
+- DO use AI to generate counter-arguments to strengthen your thesis
+- Use it as sophisticated sparring partner, not ghostwriter
+
+"This isn't lowering standards - it's changing the journey"
+
+"Now, some staff see this as AI breaking education..."
+:::
+
+---
+
+## Misplaced Blame: It's Not the Tool
+
+* **Challenge**: Staff blame AI for integrity issues
+* **Response**: Adapt assessment, don't ban
+  * Authentic, Personalised, Reflective
+* *Past tools changed assessment, AI will too*
+
+::: {.notes}
+**Historical context**:
+- Calculators "ruined" mathematics → we adapted assessments
+- Wikipedia "destroyed" research → we taught evaluation
+- Google "killed" memorisation → we focused on application
+- Spell-check "weakened" writing → we emphasised ideas over mechanics
+
+"AI doesn't break assessments, it reveals what was already breakable"
+
+**Assessment evolution examples**:
+- Authentic tasks: Real-world problems with no single answer
+- Personalised: Connect to student's own experience/context
+- Reflective: "Explain your process" "What would you do differently?"
+- In-class components: Presentations, demonstrations, peer review
+
+**For the skeptics**: 
+- Banning won't work - they'll use it anyway
+- Better to teach proper use than pretend it doesn't exist
+- "We don't ban calculators, we teach when to use them"
+
+But there's a hidden challenge we rarely discuss...
+:::
+
+---
+
+## Fear of AI: The Root of Resistance
+
+- **The Fear**: “AI will replace me” | “I’ll become obsolete” | “My expertise won’t matter”
+- **The Reality**: Every new tool sparked fear
+    - Printing press → scribes worried
+    - Calculators → mathematicians concerned
+    - Internet → everyone panicked
+- **The Pattern**: Those who adapted thrived
+
+::: {.notes}
+Let's name the real issue - fear. Not fear of technology, but fear of irrelevance. I feel it too. When I first saw ChatGPT write a decent lecture outline, my stomach dropped. 'What's my value now?'
+
+But here's what I learned: AI makes my expertise MORE valuable. It handles the routine so I can focus on what only humans do - connect, inspire, judge, create meaning. Students need us MORE to help them navigate this, not less.
+
+The choice isn't whether AI enters education - it's already here. The choice is whether we guide its use or let students figure it out alone.
+
+- Anchor story: “When I first saw ChatGPT write a lecture outline, my stomach dropped.”
+- Reframe: “AI makes my expertise more valuable — because only I can judge, connect, inspire.”
+- Takeaway: “Students don’t need us less, they need us more — to guide them through this shift.”
+  
+:::
+---
+
+## AI Shame: The Hidden Barrier
+
+* **Challenge**: Students & staff feel guilt/cheating
+* **Impact**: Underground use, stress, lost learning
+* **Response**: Normalise, Teach process, Share examples
+
+::: {.notes}
+
+> *When I first used AI for teaching prep, I felt like I was cheating. Anyone else?*
+
+**Student experiences**:
+- "I'm not really learning if I use AI"
+- Hide AI use from peers - worried about judgment
+- Imposter syndrome intensifies
+- Won't ask for help with AI - too ashamed
+
+**Staff experiences**:
+- "Real academics don't need AI"
+- Secret experimentation - won't share successes
+- Fear colleagues will think less of them
+- Worry about being "found out"
+
+**Why this matters**:
+- Drives use underground → can't develop best practices
+- Creates unnecessary stress for everyone
+- Prevents skill development in AI collaboration
+- Blocks innovation and sharing
+
+**The reframe**:
+- Using AI well REQUIRES expertise
+- You need domain knowledge to evaluate outputs
+- Creativity to direct it effectively
+- We don't say "spell-check wrote my paper"
+
+- Share your own AI use openly: "I used Claude to help structure this presentation"
+- Teach the process: prompting, evaluating, iterating
+- Make it part of academic integrity discussions, not separate
+
+So how do we move forward constructively?
+:::
+
+---
+
+## Three Practical Pathways
+
+1. **Learning Assistant**: Brainstorm, counter-arguments, debugging
+2. **Teaching Partner**: Practice problems, draft feedback, adaptive tasks
+3. **Discipline Tool**: Engineering, Business, Health, Arts
+
+::: {.notes}
+**Frame positively**: "These aren't replacements - they're enhancements"
+
+**1. Learning Assistant examples**:
+- Brainstorming: "Give me 10 unconventional approaches to this problem"
+- Counter-arguments: "What would critics say about my thesis?"
+- Debugging: "Help me understand why this code/formula/logic isn't working"
+- Socratic dialogue: AI as questioning partner
+
+**2. Teaching Partner examples**:
+- Generate practice problems based on individual student errors
+- Create first-draft feedback (you refine and personalise)
+- Build adaptive quizzes that adjust to student level
+- Develop case studies relevant to your cohort
+
+**3. Discipline-Specific examples**:
+- Engineering: Design validation, optimisation scenarios, failure analysis
+- Business: Market analysis, strategy simulation, competitor research
+- Health: Diagnostic reasoning practice, patient interaction scenarios
+- Arts: Concept iteration, style exploration, critique generation
+- Law: Case analysis, argument construction, precedent research
+- Education: Lesson plan variations, differentiation strategies
+
+**Key message**: Every discipline can benefit - question is how, not if
+
+"Start small - pick ONE thing that takes too much time"
+
+"Let me share a real example from last week..."
+:::
+
+---
+
+## Quick Win: 30-Minute Experiment
+
+* **What**: Worksheet → HTML in 30 min
+* **Result**: Upload both verisons, more engagement
+* **Key Insight**: Options, not replacements
+
+::: {.notes}
+**Set the scene**: 
+- "After our last session, colleague went back to office..."
+- Not particularly tech-savvy
+- Had a PDF style worksheet they'd used for years
+
+**The process**:
+1. Took PDF of worksheet
+2. Prompted AI: "Convert this to an interactive HTML exercise with instant feedback"
+3. AI generated the code
+4. Tested it quickly
+5. Uploaded BOTH versions to Blackboard
+6. Total time: Less than a coffee break
+
+**The results**:
+- Students choose interactive version
+- Some will still preferred PDF - and that's fine!
+- Interactive users engaged more, completed faster
+- PDF users had their familiar option
+
+**Breaking through AI shame**:
+- They chose content, evaluated output, tested
+- AI was just the formatting tool
+
+**The lesson**: 
+- We're adding options, not replacing what works
+- Students appreciate choice
+- No risk approach - can always revert
+
+"There are tools to help with this..."
+:::
+
+---
+
+## Showcase: Curriculum Curator (FLX)
+
+* **Tool**: Import → Restructure → Save 80% time
+* **Value**: Supports staff, not replaces
+* **Takeaway**: Efficiency
+
+::: {.notes}
+**Quick overview**:
+- FLX tool specifically designed for curriculum
+- Import existing materials - PDFs, slides, documents
+- Restructure into different formats
+- Extend with additional examples/exercises
+
+**Specific example**:
+- 10 hours creating new module content → 2 hours curating/refining
+- Import last year's content → Update with current examples
+- Generate practice questions from lecture notes
+
+**Address the elephant**:
+- No shame in being efficient
+- Using tools for busywork = more time for students
+- You're still the expert - tool just handles formatting/structure
+
+**Key selling point**: 
+- It's not about replacing your expertise
+- It's about amplifying it
+- Like having a teaching assistant who never sleeps
+
+**Practical use cases**:
+- Quick quiz generation from lecture content
+- Converting static content to interactive
+- Creating multiple versions for different cohorts
+- Accessibility improvements (alt formats)
+
+"Even if you never use it for creation, it's great for reformatting"
+
+"But the real questions are..."
+:::
+
+---
+
+## Questions to Guide Your Thinking
+
+* Where can AI save time?
+* How could students practice discipline-specific skills?
+* What risks/barriers must we prepare for?
+* How do we move past AI shame?
+
+::: {.notes}
+"I'm not expecting answers today - just want you thinking"
+
+
+**Where can AI save time?**
+- Routine tasks: Grading rubrics, email responses, meeting summaries
+- Content creation: Quiz questions, worked examples, case studies
+- Administrative: Report writing, grant applications, reviews
+- Ask yourself: "What do I dread doing because it's repetitive?"
+
+**Discipline-specific skills practice**:
+- What would junior professionals in your field use AI for?
+- What simulations could AI enable that weren't possible before?
+- How could students practice client/patient interactions?
+- What expensive/dangerous scenarios could AI simulate?
+
+**Risks and barriers**:
+- Over-reliance - students who can't work without it
+- Accuracy issues - hallucinations, outdated information
+- Equity - not all students have equal access
+- Industry expectations - what will employers expect?
+
+**Moving past AI shame**:
+- How do we model healthy AI use?
+- What would transparent use look like in your course?
+- How do we separate tool use from academic integrity?
+
+**Future consideration**
+- What skills become MORE important when AI handles routine tasks?
+- Critical thinking, creativity, ethical reasoning, human connection
+:::
+
+---
+
+## Let's Discuss
+
+* What's one small thing you could try next week?
+* What concerns need addressing?
+* How might your discipline benefit/challenge?
+* Have you felt AI shame?
+
+::: {.notes}
+- "These are conversation starters, not required answers"
+- "Who wants to share a thought, concern, or experience?"
+
+**Small experiment ideas**:
+- Use AI to generate discussion questions for one topic
+- Create alternative explanations for difficult concepts
+- Draft marking rubric with AI, then refine
+- Generate practice problems for next tutorial
+
+**Common concerns**:
+- "This enables cheating" → Redirect to assessment design discussion
+- "My discipline doesn't need AI" → Any repetitive tasks they hate
+- "This is moving too fast" → Acknowledge, suggest tiny experiments
+- "Students won't learn properly" → Discuss scaffolding vs replacement
+
+"These conversations are just beginning..."
+:::
+
+---
+
+## Thank You
+
+* *"Not about answers — just questions worth asking... together, without shame"*
+* **Next Step**: Try one small experiment, share results
+* *"The best way to predict the future is to help create it"*
+
+::: {.notes}
+
+**Reinforce key messages**:
+- We're all figuring this out together
+- Small experiments, not wholesale change
+- Share successes AND failures - both valuable
+- No shame in using tools to work smarter
+
+**Resources available**
+- Example prompts for worksheet conversion
+- Access to Curriculum Curator for interested parties
+- Discipline-specific AI use cases document
+- "Moving Past AI Shame" discussion guide
+
+**Call to action emphasis**:
+- "One small experiment" - lower the bar
+- "Share results" - build community of practice
+- "Be open" - break the shame cycle
+
+**Final thought**:
+- "Remember - using AI well is a skill that requires your expertise"
+- "You're not being replaced - you're being amplified"
+
+:::
+
+---
+
+## Resources & References
+- (Heaven, W. (2023, April 6). ChatGPT is going to change education, not destroy it. MIT Technology Review. Retrieved September 4 2025, from https://www.technologyreview.com/2023/04/06/1070216/chatgpt-is-going-to-change-education-not-destroy-it)[https://www.technologyreview.com/2023/04/06/1071059/chatgpt-change-not-destroy-education-openai/]
+- (McNealis, R. Shame in the machine: affective accountability and the ethics of AI. AI & Soc (2025). https://doi.org/10.1007/s00146-025-02472-x)[https://link.springer.com/article/10.1007/s00146-025-02472-x]
+- (Giray L. (2024). AI Shaming: The Silent Stigma among Academic Writers and Researchers. Annals of biomedical engineering, 52(9), 2319–2324. https://doi.org/10.1007/s10439-024-03582-1)[https://pubmed.ncbi.nlm.nih.gov/38977530/]
+- (Sabzalieva, E., & Valentini, A. (2023). ChatGPT and artificial intelligence in higher education: Quick start guide. UNESCO International Institute for Higher Education in Latin America and the Caribbean (IESALC). https://unesdoc.unesco.org/ark:/48223/pf0000385146)[https://unesdoc.unesco.org/ark:/48223/pf0000385146]
+- (WalkMe. (2025, August 27). Employees left behind in workplace AI boom, new WalkMe survey finds - WalkMe - Digital adoption Platform. WalkMe - Digital Adoption Platform. https://www.walkme.com/news-releases/employees-left-behind-in-workplace-ai-boom-new-walkme-survey-finds/?tabId=company-news)[https://www.walkme.com/news-releases/employees-left-behind-in-workplace-ai-boom-new-walkme-survey-finds/?tabId=company-news]
+- (Russell Group. (2023). Russell Group principles on the use of generative AI tools in education. Russell Group. Retrieved September 4 2025, from https://www.russellgroup.ac.uk/policy/policy-briefings/principles-use-generative-ai-tools-education)[https://www.russellgroup.ac.uk/policy/policy-briefings/principles-use-generative-ai-tools-education]
+- (Lichtenberg, N. (2025, August 29). “AI shame” is running rampant in the corporate sector—and C-suite leaders are most worried about getting caught, survey says. Fortune. https://fortune.com/2025/08/29/what-is-ai-shame-readiness-gap-training-artificial-intelligence/)[https://fortune.com/2025/08/29/what-is-ai-shame-readiness-gap-training-artificial-intelligence/]
+- Canva Workplace Study on AI Adoption (2025)
+- [TEQSA on Generative AI](https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/gen-ai-knowledge-hub)
+
