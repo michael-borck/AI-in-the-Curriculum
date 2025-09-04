@@ -224,14 +224,8 @@ So how do we move forward constructively?
 :::
 
 ---
-Here's the slide content with presenter notes based on the UNESCO framework:
-
----
 
 ## Moving Forward: AI as Learning Partner
-
-Adapted from UNESCO Report (2023)
-
 
 | **Role** | **Description** | **Example of Implementation** |
 |----------|-----------------|-------------------------------|
@@ -246,7 +240,6 @@ Adapted from UNESCO Report (2023)
 | **Motivator** | AI offers games and challenges to extend learning | Teachers or students ask ChatGPT for ideas about how to extend students' learning after providing a summary of the current level of students' knowledge (e.g., quizzes, exercises). |
 | **Dynamic assessor** | AI provides educators with a profile of each student's current knowledge | Students interact with ChatGPT in a tutorial-type dialogue and then ask ChatGPT to produce a summary of their current state of knowledge. Students can also ask ChatGPT for dynamic assessments. |
 
-This markdown table will render cleanly in your presentation materials and is easier to edit if needed.
 
 ::: {.notes}
 
